@@ -1,0 +1,11 @@
+{
+  "name": "shopfast-mini-sqap",
+  "private": true,
+  "description": "Mini-SQAP ShopFast — governança SQA (IEEE 730) + snippet checkout",
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.3"
+  }
+}

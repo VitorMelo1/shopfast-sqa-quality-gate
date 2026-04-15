@@ -1,0 +1,2 @@
+# QG-02: exigir aprovação SQA em mudanças de checkout (substitua @seu-usuario-sqa).
+/src/checkout/** @seu-usuario-github
